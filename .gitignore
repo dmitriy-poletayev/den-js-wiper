@@ -1,0 +1,4 @@
+#комментарий к файлу .gitignore
+#игнорируем сам .gitignore
+.gitignore
+.idea/*
