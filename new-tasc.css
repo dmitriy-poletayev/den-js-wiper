@@ -1,0 +1,19 @@
+.wrapper{
+    width:600px;
+    height:600px;
+    margin:0 auto;
+}
+.block{
+    display:block;
+    width: 100px;
+    height:100px;
+    line-height:100px;
+    margin:10px;
+    text-align:center;
+    vertical-align:middle;
+}
+.bl1{background-color:red;}
+.bl2{background-color:aqua;}
+.bl3{background-color:blueviolet;}
+.bl4{background-color:cadetblue;}
+.bl5{background-color:darkgoldenrod;}
